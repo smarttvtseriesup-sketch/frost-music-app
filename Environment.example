@@ -1,0 +1,7 @@
+# Local demo environment
+
+No secrets are used by the demo build.
+
+# Production providers
+# API keys must be stored on your backend and never committed to this repository.
+# MUSIC_API_BASE_URL=https://api.example.com

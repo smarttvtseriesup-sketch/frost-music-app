@@ -1,0 +1,5 @@
+{
+  "expo": {
+    "androidStatusBar": {"barStyle":"light-content","backgroundColor":"#080B14"}
+  }
+}
